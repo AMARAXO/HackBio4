@@ -1,0 +1,6 @@
+wget
+fastqc
+fastp
+bwa
+samtools
+bcftools
