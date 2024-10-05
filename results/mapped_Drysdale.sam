@@ -1,0 +1,2 @@
+@SQ	SN:chr4	LN:150001
+@PG	ID:bwa	PN:bwa	VN:0.7.17-r1188	CL:bwa mem /home/frederickalloulive/ngs_task/scripts/data/reference.fasta /home/frederickalloulive/ngs_task/scripts/results/Drysdale_R1_trimmed.fastq.gz /home/frederickalloulive/ngs_task/scripts/results/Drysdale_R2_trimmed.fastq.gz
